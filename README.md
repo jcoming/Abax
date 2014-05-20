@@ -1,4 +1,4 @@
-abax
+Abax
 ====
 
-Keep score or track anything number
+Keep score or track any number!!
